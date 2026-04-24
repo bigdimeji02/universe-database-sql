@@ -15,9 +15,15 @@ I built this project to practice relational database design using PostgreSQL. Th
 - Used GROUP BY for aggregation  
 
 ## How to Run
-Run the SQL file in PostgreSQL:
+1. Open PostgreSQL (psql)
 
-    \i universe.sql
+2. Connect to a database:
+   
+   \c postgres
+
+3. Run the SQL file:
+
+   \i universe.sql
 
 ## What I Learned
 - How to structure relational databases  
